@@ -1,0 +1,20 @@
+h1 {
+  font-size: 50px;  
+}
+
+input[type="text"] {
+    height: 40px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+input[type="button"] {
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
