@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+#DigitalClock {
+    border: 5px solid white;
+    padding: 20px;
+    position: absolute;
+    color: lime;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: sans-serif;
+    letter-spacing: 7px;
+}
